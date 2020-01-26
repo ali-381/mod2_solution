@@ -1,0 +1,43 @@
+body{
+    font-family: Arial, Helvetica, sans-serif;
+    box-sizing: border-box;
+}
+h1{
+    text-align: center;
+    font-weight: bold;
+    margin: 100px;
+    font-size: 50px;
+}
+.menu{
+    border: 2px solid black;
+    float: left;
+    width: 670px;
+    margin: 10px;
+    padding: 10px;
+    box-sizing: border-box;
+    background-color: gray;
+
+}    
+
+ .menu h2{
+     width: 150px;
+     height: 50px;
+     font-size: 24pt;
+    position: relative;
+    top: -10px;
+    left: 506px;;
+    margin: 0px;
+    text-align: center;
+    padding: 5px;
+    box-sizing: border-box;
+    border: 2px solid black;
+   
+}    
+
+
+
+
+   
+
+
+ 
